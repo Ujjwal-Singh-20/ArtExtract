@@ -24,3 +24,7 @@ This project is designed to calculate pairwise similarity scores and perform Top
 **Integrated Labels and Predictions:** Store similarity predictions alongside ground truth labels in a unified JSON file for easy access and evaluation.
 
 **Model Evaluation:** Includes tools to calculate metrics like Precision, Recall, and F1-Score for assessing performance.
+
+</br></br>
+
+***many files like the preprocessed batches, models, etc. are not uploaded as the total size exceeds 60gb, which serves a problem during uploading***
