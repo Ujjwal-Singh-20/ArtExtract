@@ -27,4 +27,4 @@ This project is designed to calculate pairwise similarity scores and perform Top
 
 </br></br>
 
-***many files like the preprocessed batches, models, etc. are not uploaded as the total size exceeds 60gb, which serves a problem during uploading***
+***Due to storage limitations (combined size ~55GB), certain files—such as preprocessed image batches and large intermediate files—are not included in the repository. However, all necessary scripts are provided to reproduce these files locally.***
